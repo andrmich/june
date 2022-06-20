@@ -1,0 +1,95 @@
+clickhouse-server.log.0.gz:4665069-2021.07.29 17:22:07.264037 [ 27886 ] {} <Trace> local_bepcloud_k8s_test.`0af4e7d1-fa32-456c-8af4-e7d1fa32e56c_nested` (b9abfe0e-a72c-4d92-b9ab-fe0ea72c8d92): Renaming temporary part tmp_insert_all_129_129_0 to all_129_129_0.
+clickhouse-server.log.0.gz:4665070:2021.07.29 17:22:07.264216 [ 27886 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/5302EF70 = 418004529008, (attempted lsn 418004529008)
+clickhouse-server.log.0.gz:4665071-2021.07.29 17:22:07.276894 [ 27886 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 418004529008
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:5021116-2021.07.29 17:26:18.060022 [ 27854 ] {} <Trace> local_bepcloud_k8s_test.`2f40ed79-81f1-4021-af40-ed7981f18021_nested` (3c815494-1ab7-48c3-bc81-54941ab7a8c3): Renaming temporary part tmp_insert_all_2_2_0 to all_2_2_0.
+clickhouse-server.log.0.gz:5021117:2021.07.29 17:26:18.060182 [ 27854 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/54004980 = 418021132672, (attempted lsn 418021132672)
+clickhouse-server.log.0.gz:5021118-2021.07.29 17:26:18.061670 [ 27923 ] {} <Debug> PostgreSQLReaplicaConsumer: Current lsn: 61/4C00B500 = 417886942464
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:5106654-2021.07.29 17:27:37.841013 [ 27936 ] {} <Trace> local_bepcloud_k8s_test.`2f40ed79-81f1-4021-af40-ed7981f18021_nested` (3c815494-1ab7-48c3-bc81-54941ab7a8c3): Renaming temporary part tmp_insert_all_3_3_0 to all_3_3_0.
+clickhouse-server.log.0.gz:5106655:2021.07.29 17:27:37.841208 [ 27936 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/54004C08 = 418021133320, (attempted lsn 418021133320)
+clickhouse-server.log.0.gz:5106656-2021.07.29 17:27:37.844092 [ 18101 ] {} <Debug> MySQLHandler: Received command: 3. Connection id: 0.
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:5982637-2021.07.29 17:39:53.077116 [ 27878 ] {} <Trace> local_bepcloud_k8s_test.`0af4e7d1-fa32-456c-8af4-e7d1fa32e56c_nested` (b9abfe0e-a72c-4d92-b9ab-fe0ea72c8d92): Renaming temporary part tmp_insert_all_130_130_0 to all_130_130_0.
+clickhouse-server.log.0.gz:5982638:2021.07.29 17:39:53.077328 [ 27878 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/56002CD8 = 418054679768, (attempted lsn 418054679768)
+clickhouse-server.log.0.gz:5982639-2021.07.29 17:39:53.082597 [ 27878 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 418054679768
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:6372739-2021.07.29 17:45:11.621647 [ 27925 ] {} <Trace> local_bepcloud_k8s_test.`2f40ed79-81f1-4021-af40-ed7981f18021_nested` (3c815494-1ab7-48c3-bc81-54941ab7a8c3): Renaming temporary part tmp_insert_all_4_4_0 to all_4_4_0.
+clickhouse-server.log.0.gz:6372740:2021.07.29 17:45:11.621882 [ 27925 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/57004988 = 418071464328, (attempted lsn 418071464328)
+clickhouse-server.log.0.gz:6372741-2021.07.29 17:45:11.628459 [ 27925 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 418071464328
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:6557966-2021.07.29 17:47:38.771174 [ 27870 ] {} <Trace> local_bepcloud_k8s_test.`5ac8b0b9-79e4-481c-9ac8-b0b979e4181c_nested` (483b8c5d-dd31-4117-883b-8c5ddd31b117): Renaming temporary part tmp_insert_all_9_9_0 to all_9_9_0.
+clickhouse-server.log.0.gz:6557967:2021.07.29 17:47:38.771572 [ 27870 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/57010108 = 418071511304, (attempted lsn 418071511304)
+clickhouse-server.log.0.gz:6557968-2021.07.29 17:47:38.784111 [ 27870 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 418071511304
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:6690828-2021.07.29 17:49:53.243782 [ 27874 ] {} <Trace> local_bepcloud_k8s_test.`8128bb1c-62c9-4ba9-8128-bb1c62c92ba9_nested` (ffed80e2-1ee2-4690-bfed-80e21ee25690): Renaming temporary part tmp_insert_all_5_5_0 to all_5_5_0.
+clickhouse-server.log.0.gz:6690829:2021.07.29 17:49:53.243942 [ 27874 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/58002810 = 418088232976, (attempted lsn 418088232976)
+clickhouse-server.log.0.gz:6690830-2021.07.29 17:49:53.254598 [ 27874 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 418088232976
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:6821427-2021.07.29 17:52:42.709523 [ 27848 ] {} <Trace> local_bepcloud_k8s_test.`7a4db34c-4c4b-482b-ba4d-b34c4c4b582b_nested` (05db1d8b-2585-43a3-85db-1d8b2585f3a3): Renaming temporary part tmp_insert_all_9_9_0 to all_9_9_0.
+clickhouse-server.log.0.gz:6821428:2021.07.29 17:52:42.709956 [ 27848 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/5800D4E0 = 418088277216, (attempted lsn 418088277216)
+clickhouse-server.log.0.gz:6821429-2021.07.29 17:52:42.719163 [ 27948 ] {} <Debug> PostgreSQLConnection: New connection to 10.244.191.128:5432
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:6866133-2021.07.29 17:53:46.440805 [ 27848 ] {} <Trace> local_bepcloud_k8s_test.`7a4db34c-4c4b-482b-ba4d-b34c4c4b582b_nested` (05db1d8b-2585-43a3-85db-1d8b2585f3a3): Renaming temporary part tmp_insert_all_10_10_0 to all_10_10_0.
+clickhouse-server.log.0.gz:6866134:2021.07.29 17:53:46.441136 [ 27848 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/59000B68 = 418105002856, (attempted lsn 418105002856)
+clickhouse-server.log.0.gz:6866135-2021.07.29 17:53:46.446501 [ 27848 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 418105002856
+clickhouse-server.log.0.gz:--
+clickhouse-server.log.0.gz:6947990-2021.07.29 17:55:24.316986 [ 27885 ] {} <Trace> local_bepcloud_k8s_test.`8128bb1c-62c9-4ba9-8128-bb1c62c92ba9_nested` (ffed80e2-1ee2-4690-bfed-80e21ee25690): Renaming temporary part tmp_insert_all_6_6_0 to all_6_6_0.
+clickhouse-server.log.0.gz:6947991:2021.07.29 17:55:24.317193 [ 27885 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/59000D70 = 418105003376, (attempted lsn 418105003376)
+clickhouse-server.log.0.gz:6947992-2021.07.29 17:55:24.318416 [ 27886 ] {} <Debug> PostgreSQLConnection: New connection to 10.244.191.128:5432
+clickhouse-server.log.1.gz:6540888-2021.07.29 16:02:04.834724 [ 27870 ] {} <Trace> local_bepcloud_k8s_test.`8128bb1c-62c9-4ba9-8128-bb1c62c92ba9_nested` (ffed80e2-1ee2-4690-bfed-80e21ee25690): Renaming temporary part tmp_insert_all_4_4_0 to all_4_4_0.
+clickhouse-server.log.1.gz:6540889:2021.07.29 16:02:04.834940 [ 27870 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/4B0036F8 = 417870132984, (attempted lsn 417870132984)
+clickhouse-server.log.1.gz:6540890-2021.07.29 16:02:04.842130 [ 27870 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 417870132984
+clickhouse-server.log.1.gz:--
+clickhouse-server.log.1.gz:6757843-2021.07.29 16:10:05.324259 [ 27903 ] {} <Trace> local_bepcloud_k8s_test.`7a4db34c-4c4b-482b-ba4d-b34c4c4b582b_nested` (05db1d8b-2585-43a3-85db-1d8b2585f3a3): Renaming temporary part tmp_insert_all_8_8_0 to all_8_8_0.
+clickhouse-server.log.1.gz:6757844:2021.07.29 16:10:05.324607 [ 27903 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/4C007FA0 = 417886928800, (attempted lsn 417886928800)
+clickhouse-server.log.1.gz:6757845-2021.07.29 16:10:05.331352 [ 27903 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 417886928800
+clickhouse-server.log.2.gz:2931413-2021.07.29 14:25:25.204596 [ 15193 ] {} <Trace> local_bepcloud_k8s_test.`9b38717e-84ce-43a4-9b38-717e84ce73a4_nested` (6e1e1669-d64c-49b3-ae1e-1669d64ca9b3): Renaming temporary part tmp_insert_all_1_1_0 to all_130_130_0.
+clickhouse-server.log.2.gz:2931414:2021.07.29 14:25:25.204799 [ 15193 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/38004B68 = 417551371112, (attempted lsn 417551371112)
+clickhouse-server.log.2.gz:2931415-2021.07.29 14:25:25.221483 [ 15193 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 417551371112
+clickhouse-server.log.2.gz:--
+clickhouse-server.log.2.gz:3098405-2021.07.29 14:32:49.889006 [ 15076 ] {} <Trace> local_bepcloud_k8s_test.`d99960b3-b09a-457d-9999-60b3b09ad57d_nested` (b92e2007-edeb-4a6c-b92e-2007edebaa6c): Renaming temporary part tmp_insert_all_2_2_0 to all_2_2_0.
+clickhouse-server.log.2.gz:3098406:2021.07.29 14:32:49.889259 [ 15076 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/3A000870 = 417584908400, (attempted lsn 417584908400)
+clickhouse-server.log.2.gz:3098407-2021.07.29 14:32:49.897823 [ 15153 ] {} <Debug> PostgreSQLReaplicaConsumer: Current lsn: 61/280006B0 = 417282918064
+clickhouse-server.log.2.gz:--
+clickhouse-server.log.2.gz:3171513-2021.07.29 14:36:58.549057 [ 15173 ] {} <Trace> local_bepcloud_k8s_test.`a38b5443-fc4d-47f3-a38b-5443fc4de7f3_nested` (c5e2f44a-b25a-426c-85e2-f44ab25a126c): Renaming temporary part tmp_insert_all_4_4_0 to all_4_4_0.
+clickhouse-server.log.2.gz:3171514:2021.07.29 14:36:58.549234 [ 15173 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/3B0007E8 = 417601685480, (attempted lsn 417601685480)
+clickhouse-server.log.2.gz:3171515-2021.07.29 14:36:58.562137 [ 15062 ] {} <Debug> PostgreSQLReaplicaConsumer: Current lsn: 61/280006B0 = 417282918064
+clickhouse-server.log.2.gz:--
+clickhouse-server.log.2.gz:3229475-2021.07.29 14:40:16.628776 [ 15112 ] {} <Trace> local_bepcloud_k8s_test.`e545e5d5-147a-4efe-a545-e5d5147a8efe_nested` (cc00b270-6d75-41da-8c00-b2706d75b1da): Renaming temporary part tmp_insert_all_9_9_0 to all_9_9_0.
+clickhouse-server.log.2.gz:3229476:2021.07.29 14:40:16.634168 [ 15112 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/3B00FF20 = 417601748768, (attempted lsn 417601748768)
+clickhouse-server.log.2.gz:3229477-2021.07.29 14:40:16.645265 [ 15114 ] {} <Debug> PostgreSQLReaplicaConsumer: Current lsn: 61/3B0007E8 = 417601685480
+clickhouse-server.log.2.gz:--
+clickhouse-server.log.2.gz:5016321-2021.07.29 14:48:13.562517 [ 15135 ] {} <Debug> PostgreSQLReaplicaConsumer: Current lsn: 61/3D035498 = 417635456152
+clickhouse-server.log.2.gz:5016322:2021.07.29 14:48:13.562524 [ 15097 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/3D05BCE8 = 417635613928, (attempted lsn 417635613928)
+clickhouse-server.log.2.gz:5016323-2021.07.29 14:48:13.562529 [ 15135 ] {} <Debug> PostgreSQLReaplicaConsumer: Current lsn: 61/3D035570 = 417635456368
+clickhouse-server.log.3.gz:8618918-2021.07.29 11:30:18.374271 [ 15148 ] {} <Trace> local_bepcloud_k8s_test.`a38b5443-fc4d-47f3-a38b-5443fc4de7f3_nested` (c5e2f44a-b25a-426c-85e2-f44ab25a126c): Renaming temporary part tmp_insert_all_2_2_0 to all_2_2_0.
+clickhouse-server.log.3.gz:8618919:2021.07.29 11:30:18.374467 [ 15148 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/24001A90 = 417215814288, (attempted lsn 417215814288)
+clickhouse-server.log.3.gz:8618920-2021.07.29 11:30:18.381043 [ 15148 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 417215814288
+clickhouse-server.log.3.gz:--
+clickhouse-server.log.3.gz:8630391-2021.07.29 11:31:37.935535 [ 15085 ] {} <Trace> local_bepcloud_k8s_test.`a38b5443-fc4d-47f3-a38b-5443fc4de7f3_nested` (c5e2f44a-b25a-426c-85e2-f44ab25a126c): Renaming temporary part tmp_insert_all_3_3_0 to all_3_3_0.
+clickhouse-server.log.3.gz:8630392:2021.07.29 11:31:37.935678 [ 15085 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 61/25000120 = 417232584992, (attempted lsn 417232584992)
+clickhouse-server.log.3.gz:8630393-2021.07.29 11:31:37.940676 [ 15085 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 417232584992
+clickhouse-server.log.4.gz:8027603-2021.07.28 17:59:21.389450 [ 4221 ] {} <Trace> local_bepcloud_k8s_test.`03ef8b01-f8c8-4707-83ef-8b01f8c8b707_nested` (dec6aa67-5f7f-41c3-9ec6-aa675f7fa1c3): Renaming temporary part tmp_insert_all_2_2_0 to all_2_2_0.
+clickhouse-server.log.4.gz:8027604:2021.07.28 17:59:21.389613 [ 4221 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 60/D1008AD8 = 415823334104, (attempted lsn 415823334104)
+clickhouse-server.log.4.gz:8027605-2021.07.28 17:59:21.392796 [ 4221 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 415823334104
+clickhouse-server.log.4.gz:--
+clickhouse-server.log.4.gz:8041562-2021.07.28 18:00:56.960606 [ 4227 ] {} <Trace> local_bepcloud_k8s_test.`03ef8b01-f8c8-4707-83ef-8b01f8c8b707_nested` (dec6aa67-5f7f-41c3-9ec6-aa675f7fa1c3): Renaming temporary part tmp_insert_all_3_3_0 to all_3_3_0.
+clickhouse-server.log.4.gz:8041563:2021.07.28 18:00:56.960792 [ 4227 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 60/D1009568 = 415823336808, (attempted lsn 415823336808)
+clickhouse-server.log.4.gz:8041564-2021.07.28 18:00:56.967641 [ 21423 ] {1331f849-1ebb-4de0-b7ea-0af2ae7eba6b} <Trace> AggregatingTransform: Aggregating
+clickhouse-server.log.8.gz:965124-2021.07.27 11:53:02.684338 [ 4179 ] {} <Trace> local_bepcloud_k8s_test.`248e4a73-5182-4af5-a48e-4a7351828af5_nested` (1adbf309-b637-4548-9adb-f309b6376548): Renaming temporary part tmp_insert_all_126_126_0 to all_126_126_0.
+clickhouse-server.log.8.gz:965125:2021.07.27 11:53:02.684529 [ 4179 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 60/1A0045F8 = 412753085944, (attempted lsn 412753085944)
+clickhouse-server.log.8.gz:965126-2021.07.27 11:53:02.691398 [ 4179 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 412753085944
+clickhouse-server.log.8.gz:--
+clickhouse-server.log.8.gz:1008970-2021.07.27 11:54:38.277032 [ 4219 ] {} <Trace> local_bepcloud_k8s_test.`248e4a73-5182-4af5-a48e-4a7351828af5_nested` (1adbf309-b637-4548-9adb-f309b6376548): Renaming temporary part tmp_insert_all_127_127_0 to all_127_127_0.
+clickhouse-server.log.8.gz:1008971:2021.07.27 11:54:38.277254 [ 4219 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 60/1A004C90 = 412753087632, (attempted lsn 412753087632)
+clickhouse-server.log.8.gz:1008972-2021.07.27 11:54:38.278518 [ 4219 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 412753087632
+clickhouse-server.log.8.gz:--
+clickhouse-server.log.8.gz:1051823-2021.07.27 11:56:13.834677 [ 4195 ] {} <Trace> local_bepcloud_k8s_test.`248e4a73-5182-4af5-a48e-4a7351828af5_nested` (1adbf309-b637-4548-9adb-f309b6376548): Renaming temporary part tmp_insert_all_128_128_0 to all_128_128_0.
+clickhouse-server.log.8.gz:1051824:2021.07.27 11:56:13.834812 [ 4195 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 60/1B000AA0 = 412769847968, (attempted lsn 412769847968)
+clickhouse-server.log.8.gz:1051825-2021.07.27 11:56:13.841743 [ 4195 ] {} <Trace> PostgreSQLReaplicaConsumer: Advanced LSN up to: 412769847968
+clickhouse-server.log.8.gz:--
+clickhouse-server.log.8.gz:1085484-2021.07.27 11:57:17.386568 [ 4137 ] {} <Debug> local_bepcloud_k8s_test.`248e4a73-5182-4af5-a48e-4a7351828af5_nested` (1adbf309-b637-4548-9adb-f309b6376548) (MergerMutator): Selected 4 parts from all_122_122_0 to all_125_125_0
+clickhouse-server.log.8.gz:1085485:2021.07.27 11:57:17.386591 [ 4229 ] {} <Debug> PostgreSQLReaplicaConsumer: Table sync end for 1 tables, last lsn: 60/1B000E48 = 412769848904, (attempted lsn 412769848904)
+clickhouse-server.log.8.gz:1085486-2021.07.27 11:57:17.386661 [ 4137 ] {} <Debug> DiskLocal: Reserving 63.64 MiB on disk `default`, having unreserved 950.77 GiB.
+
