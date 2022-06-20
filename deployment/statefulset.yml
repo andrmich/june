@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: litecoin
+spec:
+  selector:
+    matchLabels:
+      app: litecoin
+  serviceName: "litecoin-svc"
+  replicas: 3
+  minReadySeconds: 10
+  template:
+    metadata:
+      labels:
+        app: litecoin
+    spec:
+      serviceAccountName: litecoin
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 1001
+        fsGroup: 1001
+      terminationGracePeriodSeconds: 10
+      containers:
+        - name: litecoin
+          image: repo/litecoin_image:version
+          imagePullPolicy: IfNotPresent
+          resources:
+            requests:
+              cpu: 0.1
+              memory: 200Mi
+            limits:
+              cpu: 1
+              memory: 1Gi
+          volumeMounts:
+            - mountPath: "/home/litecoin/.litecoin"
+              name: data
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+      volumes:
+        - name: data
+          persistentVolumeClaim:
+            claimName: litecoin-pvc
